@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=Garry's%20Developers'%20Team&fontSize=60&fontColor=ffffff&animation=fadeIn&color=0:00F7FF,50:6A00FF,100:FF006E"/>
 
 <br>
