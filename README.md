@@ -118,9 +118,9 @@
 
 # 📊 PROJECT STATS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GurmanSingh7&show_icons=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GurmanSingh7"/>
 
 </div>
 
